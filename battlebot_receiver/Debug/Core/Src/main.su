@@ -1,0 +1,17 @@
+../Core/Src/main.c:85:5:tempColor	16	static
+../Core/Src/main.c:96:5:batColor	16	static
+../Core/Src/main.c:107:5:connectionColor	16	static
+../Core/Src/main.c:134:5:main	104	static
+../Core/Src/main.c:228:6:SystemClock_Config	72	static
+../Core/Src/main.c:268:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:306:13:MX_SPI2_Init	8	static
+../Core/Src/main.c:344:13:MX_TIM4_Init	48	static
+../Core/Src/main.c:397:13:MX_TIM7_Init	16	static
+../Core/Src/main.c:435:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:468:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:501:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:591:6:StartDefaultTask	16	static
+../Core/Src/main.c:613:6:StartAdjustDisplay	56	static
+../Core/Src/main.c:659:6:StartReadInputs	16	static
+../Core/Src/main.c:679:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:696:6:Error_Handler	4	static,ignoring_inline_asm

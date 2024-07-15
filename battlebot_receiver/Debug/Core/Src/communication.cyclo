@@ -1,0 +1,3 @@
+../Core/Inc/communication.h:38:6:InitCom	3
+../Core/Inc/communication.h:47:6:adjustCTRL	1
+../Core/Src/communication.c:8:6:adjustFromMSG	7
