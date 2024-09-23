@@ -1,3 +1,0 @@
-../Core/Inc/communication.h:38:6:InitCom	8	static
-../Core/Inc/communication.h:47:6:adjustCTRL	4	static
-../Core/Src/communication.c:8:6:adjustFromMSG	48	static
