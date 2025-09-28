@@ -53,10 +53,10 @@ void drive(){
   if(brake>10){
     analogWrite(L_BRK,brake);
     analogWrite(R_BRK,brake);
-    Serial.println("BREAKING!");
+    // Serial.println("BREAKING!");
   }else{
-    analogWrite(L_BRK,brake);
-    analogWrite(R_BRK,brake);
+    analogWrite(L_BRK,0);
+    analogWrite(R_BRK,0);
   }
   dacWrite(L_SPEED,lSpeed);
   dacWrite(R_SPEED,rSpeed);
